@@ -18,39 +18,42 @@
 <tbody>
 <tr>
 <td>Week 1</td>
-<td></td>
+<td><a href="https://github.com/zNEOyu/CS50x/tree/master/Week%201">https://github.com/zNEOyu/CS50x/tree/master/Week 1</a></td>
 </tr>
 <tr>
 <td>Week 2</td>
-<td></td>
+<td><a href="https://github.com/zNEOyu/CS50x/tree/master/Week%202">https://github.com/zNEOyu/CS50x/tree/master/Week 2</a></td>
 </tr>
 <tr>
 <td>Week 3</td>
-<td></td>
+<td><a href="https://github.com/zNEOyu/CS50x/tree/master/Week%203">https://github.com/zNEOyu/CS50x/tree/master/Week 3</a></td>
 </tr>
 <tr>
 <td>Week 4</td>
-<td></td>
+<td><a href="https://github.com/zNEOyu/CS50x/tree/master/Week%204">https://github.com/zNEOyu/CS50x/tree/master/Week 4</a></td>
 </tr>
 <tr>
 <td>Week 5</td>
-<td></td>
+<td><a href="https://github.com/zNEOyu/CS50x/tree/master/Week%205">https://github.com/zNEOyu/CS50x/tree/master/Week 5</a></td>
 </tr>
 <tr>
 <td>Week 6</td>
-<td></td>
+<td><a href="https://github.com/zNEOyu/CS50x/tree/master/Week%206">https://github.com/zNEOyu/CS50x/tree/master/Week 6</a></td>
 </tr>
 <tr>
 <td>Week 7</td>
-<td></td>
+<td><a href="https://github.com/zNEOyu/CS50x/tree/master/Week%207">https://github.com/zNEOyu/CS50x/tree/master/Week 7</a></td>
 </tr>
 <tr>
 <td>Week 8</td>
-<td></td>
+<td><a href="https://github.com/zNEOyu/CS50x/tree/master/Week%208">https://github.com/zNEOyu/CS50x/tree/master/Week 8</a></td>
 </tr>
 <tr>
 <td>Week 9</td>
-<td></td>
+<td><a href="https://github.com/zNEOyu/CS50x/tree/master/Week%209">https://github.com/zNEOyu/CS50x/tree/master/Week 9</a></td>
 </tr>
 </tbody>
-</table>
+</table><blockquote>
+<p>i only did this to understand how markdown work, dont bother with that</p>
+</blockquote>
+
